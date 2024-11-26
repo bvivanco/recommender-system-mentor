@@ -1,1 +1,10 @@
 mvp-env/
+.env
+
+# Ignorar archivos de compilación
+__pycache__/
+*.pyc
+
+# Ignorar archivos temporales
+*.log
+*.tmp
